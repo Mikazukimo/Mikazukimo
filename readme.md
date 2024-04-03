@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm zukimo</h1>
-<h3 align="center">A student at the University of Tsukuba.</h3>
+# 📊 GitHub Stats
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4mlz&theme=dracula" /><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zukimo_klis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zukimo_klis23" height="30" width="40" /></a>
+<p align="left"> 
+  <img alt="Top Langs" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mlz&layout=compact&count_private=true&show_icons=true&theme=dracula&langs_count=10" />
+  <img alt="github stats" width="61%" src="https://github-readme-stats.vercel.app/api?username=n4mlz&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikazukimo&show_icons=true&locale=en" alt="mikazukimo" /></p>
-
+# Links
+[![X URL](https://img.shields.io/twitter/url?label=X&style=social&url=https://twitter.com/n4mlz)](https://twitter.com/zukimo_klis23)
