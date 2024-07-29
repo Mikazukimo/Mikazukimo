@@ -1,11 +1,42 @@
-# すてーたす
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikazukimo&theme=nord_dark" /><br/>
+# わぁい
 
-<p align="left"> 
-  <img alt="Top Langs" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikazukimo&layout=compact&count_private=true&show_icons=true&theme=nord_dark&langs_count=10" />
-</p>
+## Who am I?
+- 茨城にいる
+- 茨城の南にいる
+- 茨城の南の大学にいる
+- 茨城の南の大学の南にいる
+- 茨城の南の大学の南の図書館にいる
 
-本当はMarkdownとPythonばっかりなんだけどな
+## 好きな分野
+- 図書館情報学
+- 教育哲学
+
+## 主に使ってる言語
+- 日本語
+- 英語
+- Markdown
+- Python
+- TeX
+
+## 好きな言語
+- 日本語
+- 英語
+- Python
+- XML
+- Markdown
+- TeX
+
+## 最近好きな言語
+- 英語
+- HTML(XML)
+
+## 好きなCP
+- FlaskとHTML
+
+## 好きな三角関係
+- Flask,HTML,CSS
+
+よしなに。
 
 # Links
 [![X URL](https://img.shields.io/twitter/url?label=X&style=social&url=https://twitter.com/n4mlz)](https://twitter.com/zukimo_klis23)
