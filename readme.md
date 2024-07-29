@@ -14,8 +14,8 @@
 ## 主に使ってる言語
 - 日本語
 - 英語
-- Markdown
 - Python
+- Markdown
 - TeX
 
 ## 好きな言語
@@ -29,9 +29,6 @@
 ## 最近好きな言語
 - 英語
 - HTML(XML)
-
-## 好きなCP
-- FlaskとHTML
 
 ## 好きな三角関係
 - Flask,HTML,CSS
