@@ -14,6 +14,7 @@
 ## 主に使ってる言語
 - 日本語
 - 英語
+- nim
 - Python
 - Markdown
 - TeX
@@ -21,6 +22,7 @@
 ## 好きな言語
 - 日本語
 - 英語
+- nim
 - Python
 - XML
 - Markdown
@@ -28,10 +30,11 @@
 
 ## 最近好きな言語
 - 英語
-- HTML(XML)
+- nim
 
 ## 好きな三角関係
 - Flask,HTML,CSS
+- nim,Jester,nimja
 
 よしなに。
 
