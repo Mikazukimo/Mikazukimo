@@ -9,15 +9,6 @@
 
 ## 好きな分野
 - 図書館情報学
-- 教育哲学
-
-## 主に使ってる言語
-- 日本語
-- 英語
-- nim
-- Python
-- Markdown
-- TeX
 
 ## 好きな言語
 - 日本語
@@ -25,16 +16,6 @@
 - nim
 - Python
 - XML
-- Markdown
-- TeX
-
-## 最近好きな言語
-- 英語
-- nim
-
-## 好きな三角関係
-- Flask,HTML,CSS
-- nim,Jester,nimja
 
 よしなに。
 
